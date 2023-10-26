@@ -35,3 +35,19 @@ Seleksi kondisi (if..else)
 Penggunaan operator switch untuk seleksi kondisi
 
 ![image](https://github.com/verz666/Lab5Web./assets/115523263/1eb77e26-8c26-45a9-b688-d551014a6fc1)
+
+## Pembuatan Form
+
+Form Input
+
+![image](https://github.com/verz666/Lab5Web./assets/115523263/88728e6e-7a54-45c3-bbcd-67f69d652640)
+
+Form Button
+
+![image](https://github.com/verz666/Lab5Web./assets/115523263/f374f6a9-de96-40c3-a154-35db7f9e1465)
+
+## HTML DOM
+
+Pilihan menggunakan checkBox dengan perhitungan otomatis
+
+![image](https://github.com/verz666/Lab5Web./assets/115523263/bd9588ef-f5e3-4d27-80ef-6163ecaea66f)
