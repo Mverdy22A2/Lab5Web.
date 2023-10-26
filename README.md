@@ -50,4 +50,4 @@ Form Button
 
 Pilihan menggunakan checkBox dengan perhitungan otomatis
 
-![image](https://github.com/verz666/Lab5Web./assets/115523263/bd9588ef-f5e3-4d27-80ef-6163ecaea66f)
+![image](https://github.com/verz666/Lab5Web./assets/115523263/66cc072f-5588-4047-a49b-07561fa3bcba)
