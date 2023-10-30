@@ -51,3 +51,10 @@ Form Button
 Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 ![image](https://github.com/verz666/Lab5Web./assets/115523263/66cc072f-5588-4047-a49b-07561fa3bcba)
+
+# Pertanyaan dan Tugas
+
+## 1. Buat script untuk melakukan validasi pada isian form.
+
+![image](https://github.com/verz666/Lab5Web./assets/115523263/050040cb-e580-4bac-ad64-1c031427430c)
+
